@@ -9,6 +9,7 @@ const About = () => {
     { name: "Sumith Jayawardhana", role: "CTO", img: img2 },
     { name: "Kamal De Silwa", role: "CFO", img: img3 },
   ];
+  
 
   const styles = {
     container: {
